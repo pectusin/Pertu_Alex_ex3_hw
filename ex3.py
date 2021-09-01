@@ -1,1 +1,1 @@
-print('Hello')
+print('Comment was added')
